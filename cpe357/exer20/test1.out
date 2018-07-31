@@ -1,0 +1,35 @@
+
+Current value: 0x00000000
+Enter bitwise operator (or "quit"): Unrecognized operator '*', please try again
+Enter bitwise operator (or "quit"): Enter RHS for the & operator in hex: 0x00000000 & 0x00000005 is 0x00000000
+
+Current value: 0x00000000
+Enter bitwise operator (or "quit"): Enter RHS for the | operator in hex: 0x00000000 | 0x00000004 is 0x00000004
+
+Current value: 0x00000004
+Enter bitwise operator (or "quit"): Enter RHS for the << operator in decimal: 0x00000004 << 3 is 0x00000020
+
+Current value: 0x00000020
+Enter bitwise operator (or "quit"): Enter RHS for the >> operator in decimal: 0x00000020 >> 2 is 0x00000008
+
+Current value: 0x00000008
+Enter bitwise operator (or "quit"): ~0x00000008 is 0xFFFFFFF7
+
+Current value: 0xFFFFFFF7
+Enter bitwise operator (or "quit"): Enter RHS for the >> operator in decimal: 0xFFFFFFF7 >> 4 is 0x0FFFFFFF
+
+Current value: 0x0FFFFFFF
+Enter bitwise operator (or "quit"): ~0x0FFFFFFF is 0xF0000000
+
+Current value: 0xF0000000
+Enter bitwise operator (or "quit"): Enter RHS for the ^ operator in hex: RHS must be a value in hex, please try again
+Enter RHS for the ^ operator in hex: RHS must be a value in hex, please try again
+Enter RHS for the ^ operator in hex: 0xF0000000 ^ 0x00000009 is 0xF0000009
+
+Current value: 0xF0000009
+Enter bitwise operator (or "quit"): Enter RHS for the | operator in hex: 0xF0000009 | 0x0000000E is 0xF000000F
+
+Current value: 0xF000000F
+Enter bitwise operator (or "quit"): Unrecognized operator 'qu', please try again
+Enter bitwise operator (or "quit"): Unrecognized operator 'it', please try again
+Enter bitwise operator (or "quit"): 

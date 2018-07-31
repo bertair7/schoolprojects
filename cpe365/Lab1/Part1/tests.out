@@ -1,0 +1,187 @@
+Test1==========================================
+S[tudent]: <lastname> [B[us]]
+
+T[eacher]: <lastname>
+
+B[us]: <number>
+
+G[rade]: <number> [[H[igh]]|[L[ow]]]
+
+A[verage]: <number>
+
+I[nfo]
+
+Q[uit]
+
+HAVIR BOBBIE 2 108 HAMER GAVIN
+Test2==========================================
+S[tudent]: <lastname> [B[us]]
+
+T[eacher]: <lastname>
+
+B[us]: <number>
+
+G[rade]: <number> [[H[igh]]|[L[ow]]]
+
+A[verage]: <number>
+
+I[nfo]
+
+Q[uit]
+
+Test3==========================================
+S[tudent]: <lastname> [B[us]]
+
+T[eacher]: <lastname>
+
+B[us]: <number>
+
+G[rade]: <number> [[H[igh]]|[L[ow]]]
+
+A[verage]: <number>
+
+I[nfo]
+
+Q[uit]
+
+HAVIR BOBBIE 0
+SAELEE DANILO
+GARTH JOHN
+Test4==========================================
+S[tudent]: <lastname> [B[us]]
+
+T[eacher]: <lastname>
+
+B[us]: <number>
+
+G[rade]: <number> [[H[igh]]|[L[ow]]]
+
+A[verage]: <number>
+
+I[nfo]
+
+Q[uit]
+
+Back to prompt
+S[tudent]: <lastname> [B[us]]
+
+T[eacher]: <lastname>
+
+B[us]: <number>
+
+G[rade]: <number> [[H[igh]]|[L[ow]]]
+
+A[verage]: <number>
+
+I[nfo]
+
+Q[uit]
+
+PHUONG SCHOENECKER 6 109
+MATHILDA FINCHMAN 6 111
+HYE BRODERSEN 3 110
+BOBBIE HAVIR 2 108
+ELDON MASSART 4 105
+JOHN GARTH 1 103
+RANDOLPH CREMEANS 6 109
+CARRIE KREESE 6 109
+Test5==========================================
+S[tudent]: <lastname> [B[us]]
+
+T[eacher]: <lastname>
+
+B[us]: <number>
+
+G[rade]: <number> [[H[igh]]|[L[ow]]]
+
+A[verage]: <number>
+
+I[nfo]
+
+Q[uit]
+
+SHARRI SWEDLUND 3.24 ROCIO FAFARD 55
+MANIE CIGANEK 2.79 ROCIO FAFARD 53
+Test6==========================================
+S[tudent]: <lastname> [B[us]]
+
+T[eacher]: <lastname>
+
+B[us]: <number>
+
+G[rade]: <number> [[H[igh]]|[L[ow]]]
+
+A[verage]: <number>
+
+I[nfo]
+
+Q[uit]
+
+Grade: 4 Average GPA: 2.951
+0: 0
+1: 2
+2: 13
+3: 9
+4: 15
+5: 0
+6: 21
+Test7==========================================
+S[tudent]: <lastname> [B[us]]
+
+T[eacher]: <lastname>
+
+B[us]: <number>
+
+G[rade]: <number> [[H[igh]]|[L[ow]]]
+
+A[verage]: <number>
+
+I[nfo]
+
+Q[uit]
+
+Back to prompt
+S[tudent]: <lastname> [B[us]]
+
+T[eacher]: <lastname>
+
+B[us]: <number>
+
+G[rade]: <number> [[H[igh]]|[L[ow]]]
+
+A[verage]: <number>
+
+I[nfo]
+
+Q[uit]
+
+Back to prompt
+S[tudent]: <lastname> [B[us]]
+
+T[eacher]: <lastname>
+
+B[us]: <number>
+
+G[rade]: <number> [[H[igh]]|[L[ow]]]
+
+A[verage]: <number>
+
+I[nfo]
+
+Q[uit]
+
+Back to prompt
+S[tudent]: <lastname> [B[us]]
+
+T[eacher]: <lastname>
+
+B[us]: <number>
+
+G[rade]: <number> [[H[igh]]|[L[ow]]]
+
+A[verage]: <number>
+
+I[nfo]
+
+Q[uit]
+

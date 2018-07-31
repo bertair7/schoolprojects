@@ -1,0 +1,9 @@
+Ryan Blair
+Project 1
+4/13/17
+
+Mode 1 = depth
+Mode 2 = vertical interpolation blue (top) to red (bottom) 
+
+barycentric coordinates derived from: http://users.csc.calpoly.edu/~zwood/teaching/csc471/2016/barycentric.pdf
+ 

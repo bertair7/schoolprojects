@@ -1,0 +1,35 @@
+#include <stdio.h>
+#include "stack.c"
+
+int main() {
+   char option;
+   printf("Welcome to the stack program. \n");
+   printf("Enter option: ");
+   scanf("%c", &option);
+   while(!(char == 'x')) {
+      switch(option) {
+	 case 'u': //push
+	    
+	    break;
+
+         case 'o': //pop
+	    
+            break;
+         
+         case 'h': //print in hex
+	    
+	    break;
+ 
+         case 'c': //print in char
+	    
+	    break;
+
+         case 'd': //print in decimal
+	    
+            break;
+
+         case 'x':
+            break;
+      }
+   }
+}

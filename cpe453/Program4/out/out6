@@ -1,0 +1,8 @@
+name        size                type
+.                     0                   D
+..                    0                   D
+_Noreturn.h           306                 F
+arg-nonnull.h         1216                F
+c++defs.h             11755               F
+unused-parameter.h    1570                F
+warn-on-use.h         5127                F

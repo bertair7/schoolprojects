@@ -1,0 +1,1 @@
+./ext2reader testimage.ext2 /gzip-1.6/m4

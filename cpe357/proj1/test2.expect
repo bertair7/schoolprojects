@@ -1,0 +1,848 @@
+Enter the seed for random number generation: Enter the maximum letter for the game (A-Z): Enter the number of positions for the game (1-8): Enter the number of guesses allowed for the game: Initialized Game Board: BFEC
+
+Enter guess 1: Nope, 0 exact guesses and 0 inexact guesses
+
+Enter guess 2: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 3: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 4: Nope, 0 exact guesses and 0 inexact guesses
+
+Enter guess 5: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 6: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 7: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 8: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 9: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 10: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 11: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 12: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 13: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 14: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 15: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 16: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 17: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 18: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 19: Nope, 0 exact guesses and 0 inexact guesses
+
+Enter guess 20: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 21: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 22: Nope, 0 exact guesses and 0 inexact guesses
+
+Enter guess 23: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 24: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 25: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 26: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 27: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 28: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 29: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 30: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 31: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 32: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 33: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 34: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 35: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 36: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 37: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 38: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 39: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 40: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 41: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 42: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 43: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 44: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 45: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 46: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 47: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 48: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 49: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 50: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 51: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 52: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 53: Nope, 0 exact guesses and 3 inexact guesses
+
+Enter guess 54: Nope, 0 exact guesses and 3 inexact guesses
+
+Enter guess 55: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 56: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 57: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 58: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 59: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 60: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 61: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 62: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 63: Nope, 2 exact guesses and 1 inexact guesses
+
+Enter guess 64: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 65: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 66: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 67: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 68: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 69: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 70: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 71: Nope, 0 exact guesses and 3 inexact guesses
+
+Enter guess 72: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 73: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 74: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 75: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 76: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 77: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 78: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 79: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 80: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 81: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 82: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 83: Nope, 0 exact guesses and 3 inexact guesses
+
+Enter guess 84: Nope, 0 exact guesses and 3 inexact guesses
+
+Enter guess 85: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 86: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 87: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 88: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 89: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 90: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 91: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 92: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 93: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 94: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 95: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 96: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 97: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 98: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 99: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 100: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 101: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 102: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 103: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 104: Nope, 0 exact guesses and 3 inexact guesses
+
+Enter guess 105: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 106: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 107: Nope, 0 exact guesses and 3 inexact guesses
+
+Enter guess 108: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 109: Nope, 0 exact guesses and 0 inexact guesses
+
+Enter guess 110: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 111: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 112: Nope, 0 exact guesses and 0 inexact guesses
+
+Enter guess 113: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 114: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 115: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 116: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 117: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 118: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 119: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 120: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 121: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 122: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 123: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 124: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 125: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 126: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 127: Nope, 0 exact guesses and 0 inexact guesses
+
+Enter guess 128: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 129: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 130: Nope, 0 exact guesses and 0 inexact guesses
+
+Enter guess 131: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 132: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 133: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 134: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 135: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 136: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 137: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 138: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 139: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 140: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 141: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 142: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 143: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 144: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 145: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 146: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 147: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 148: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 149: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 150: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 151: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 152: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 153: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 154: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 155: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 156: Nope, 0 exact guesses and 3 inexact guesses
+
+Enter guess 157: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 158: Nope, 0 exact guesses and 3 inexact guesses
+
+Enter guess 159: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 160: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 161: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 162: Nope, 0 exact guesses and 3 inexact guesses
+
+Enter guess 163: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 164: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 165: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 166: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 167: Nope, 0 exact guesses and 1 inexact guesses
+
+Enter guess 168: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 169: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 170: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 171: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 172: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 173: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 174: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 175: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 176: Nope, 0 exact guesses and 3 inexact guesses
+
+Enter guess 177: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 178: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 179: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 180: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 181: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 182: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 183: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 184: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 185: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 186: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 187: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 188: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 189: Nope, 2 exact guesses and 1 inexact guesses
+
+Enter guess 190: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 191: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 192: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 193: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 194: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 195: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 196: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 197: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 198: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 199: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 200: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 201: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 202: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 203: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 204: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 205: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 206: Nope, 2 exact guesses and 1 inexact guesses
+
+Enter guess 207: Nope, 3 exact guesses and 0 inexact guesses
+
+Enter guess 208: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 209: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 210: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 211: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 212: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 213: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 214: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 215: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 216: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 217: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 218: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 219: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 220: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 221: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 222: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 223: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 224: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 225: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 226: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 227: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 228: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 229: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 230: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 231: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 232: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 233: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 234: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 235: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 236: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 237: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 238: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 239: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 240: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 241: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 242: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 243: Nope, 3 exact guesses and 0 inexact guesses
+
+Enter guess 244: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 245: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 246: Nope, 2 exact guesses and 1 inexact guesses
+
+Enter guess 247: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 248: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 249: Nope, 2 exact guesses and 1 inexact guesses
+
+Enter guess 250: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 251: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 252: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 253: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 254: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 255: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 256: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 257: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 258: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 259: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 260: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 261: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 262: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 263: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 264: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 265: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 266: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 267: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 268: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 269: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 270: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 271: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 272: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 273: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 274: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 275: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 276: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 277: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 278: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 279: Nope, 3 exact guesses and 0 inexact guesses
+
+Enter guess 280: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 281: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 282: Nope, 2 exact guesses and 1 inexact guesses
+
+Enter guess 283: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 284: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 285: Nope, 2 exact guesses and 1 inexact guesses
+
+Enter guess 286: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 287: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 288: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 289: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 290: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 291: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 292: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 293: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 294: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 295: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 296: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 297: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 298: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 299: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 300: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 301: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 302: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 303: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 304: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 305: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 306: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 307: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 308: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 309: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 310: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 311: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 312: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 313: Nope, 2 exact guesses and 1 inexact guesses
+
+Enter guess 314: Nope, 2 exact guesses and 1 inexact guesses
+
+Enter guess 315: Nope, 3 exact guesses and 0 inexact guesses
+
+Enter guess 316: Nope, 2 exact guesses and 1 inexact guesses
+
+Enter guess 317: Nope, 2 exact guesses and 1 inexact guesses
+
+Enter guess 318: Nope, 2 exact guesses and 2 inexact guesses
+
+Enter guess 319: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 320: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 321: Nope, 2 exact guesses and 1 inexact guesses
+
+Enter guess 322: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 323: Nope, 1 exact guesses and 3 inexact guesses
+
+Enter guess 324: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 325: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 326: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 327: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 328: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 329: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 330: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 331: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 332: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 333: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 334: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 335: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 336: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 337: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 338: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 339: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 340: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 341: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 342: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 343: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 344: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 345: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 346: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 347: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 348: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 349: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 350: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 351: Nope, 3 exact guesses and 0 inexact guesses
+
+Enter guess 352: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 353: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 354: Nope, 2 exact guesses and 1 inexact guesses
+
+Enter guess 355: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 356: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 357: Nope, 2 exact guesses and 1 inexact guesses
+
+Enter guess 358: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 359: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 360: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 361: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 362: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 363: Nope, 2 exact guesses and 1 inexact guesses
+
+Enter guess 364: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 365: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 366: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 367: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 368: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 369: Nope, 2 exact guesses and 1 inexact guesses
+
+Enter guess 370: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 371: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 372: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 373: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 374: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 375: Nope, 2 exact guesses and 1 inexact guesses
+
+Enter guess 376: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 377: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 378: Nope, 1 exact guesses and 3 inexact guesses
+
+Enter guess 379: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 380: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 381: Nope, 2 exact guesses and 1 inexact guesses
+
+Enter guess 382: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 383: Nope, 1 exact guesses and 1 inexact guesses
+
+Enter guess 384: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 385: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 386: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 387: Nope, 3 exact guesses and 0 inexact guesses
+
+Enter guess 388: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 389: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 390: Nope, 2 exact guesses and 1 inexact guesses
+
+Enter guess 391: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 392: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 393: Nope, 2 exact guesses and 2 inexact guesses
+
+Enter guess 394: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 395: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 396: Nope, 1 exact guesses and 2 inexact guesses
+
+Enter guess 397: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 398: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 399: Nope, 3 exact guesses and 0 inexact guesses
+
+Enter guess 400: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 401: Nope, 2 exact guesses and 1 inexact guesses
+
+Enter guess 402: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 403: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 404: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 405: Nope, 3 exact guesses and 0 inexact guesses
+
+Enter guess 406: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 407: Nope, 2 exact guesses and 1 inexact guesses
+
+Enter guess 408: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 409: Nope, 2 exact guesses and 1 inexact guesses
+
+Enter guess 410: Nope, 2 exact guesses and 1 inexact guesses
+
+Enter guess 411: Nope, 3 exact guesses and 0 inexact guesses
+
+Enter guess 412: Nope, 2 exact guesses and 1 inexact guesses
+
+Enter guess 413: Nope, 2 exact guesses and 2 inexact guesses
+
+Enter guess 414: Nope, 2 exact guesses and 1 inexact guesses
+
+Enter guess 415: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 416: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 417: Nope, 3 exact guesses and 0 inexact guesses
+
+Enter guess 418: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 419: Nope, 2 exact guesses and 1 inexact guesses
+
+Enter guess 420: Nope, 2 exact guesses and 0 inexact guesses
+
+Enter guess 421: Nope, 3 exact guesses and 0 inexact guesses
+
+Enter guess 422: Nope, 3 exact guesses and 0 inexact guesses
+
+Enter guess 423: 
+Wow, you won in 423 guesses - well done!

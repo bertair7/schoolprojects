@@ -1,0 +1,13 @@
+reqAtMostGlobals 0
+reqAtMostStaticsFile 0
+reqAtMostStaticsLocal 0
+reqNoUseOf goto
+reqNoDynamicMemory
+reqNoUseOf memcpy
+reqNoUseOf memmove
+reqNoUseOf strcat
+reqNoUseOf strncat
+reqNoUseOf strcpy
+reqNoUseOf strncpy
+reqNoUseOf strlen 
+reqNoUseOf sprintf

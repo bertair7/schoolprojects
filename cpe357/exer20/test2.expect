@@ -1,0 +1,31 @@
+
+Current value: 0x00000000
+Enter bitwise operator (or "quit"): Unrecognized operator '3', please try again
+Enter bitwise operator (or "quit"): Unrecognized operator '#', please try again
+Enter bitwise operator (or "quit"): Enter RHS for the | operator in hex: 0x00000000 | 0x00000006 is 0x00000006
+
+Current value: 0x00000006
+Enter bitwise operator (or "quit"): Unrecognized operator '0', please try again
+Enter bitwise operator (or "quit"): Unrecognized operator '[', please try again
+Enter bitwise operator (or "quit"): Enter RHS for the << operator in decimal: 0x00000006 << 6 is 0x00000180
+
+Current value: 0x00000180
+Enter bitwise operator (or "quit"): Enter RHS for the & operator in hex: 0x00000180 & 0x0000004F is 0x00000000
+
+Current value: 0x00000000
+Enter bitwise operator (or "quit"): Enter RHS for the ^ operator in hex: RHS must be a value in hex, please try again
+Enter RHS for the ^ operator in hex: RHS must be a value in hex, please try again
+Enter RHS for the ^ operator in hex: 0x00000000 ^ 0x00000009 is 0x00000009
+
+Current value: 0x00000009
+Enter bitwise operator (or "quit"): Enter RHS for the >> operator in decimal: RHS must be an unsigned value in decimal, please try again
+Enter RHS for the >> operator in decimal: 0x00000009 >> 3 is 0x00000001
+
+Current value: 0x00000001
+Enter bitwise operator (or "quit"): ~0x00000001 is 0xFFFFFFFE
+
+Current value: 0xFFFFFFFE
+Enter bitwise operator (or "quit"): ~0xFFFFFFFE is 0x00000001
+
+Current value: 0x00000001
+Enter bitwise operator (or "quit"): 

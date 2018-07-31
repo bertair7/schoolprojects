@@ -1,0 +1,10 @@
+name        size                type
+.                     0                   D
+..                    0                   D
+dir1                  0                   D
+dir2                  0                   D
+dir3                  0                   D
+gzip-1.6              0                   D
+lost+found            0                   D
+testfile              21                  F
+testfile4             37867104            F

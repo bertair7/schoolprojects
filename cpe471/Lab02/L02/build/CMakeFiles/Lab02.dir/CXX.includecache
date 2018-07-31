@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+//home/rablair/CPE471/Lab02/L02/src/Image.h
+string
+-
+vector
+-
+
+//home/rablair/CPE471/Lab02/L02/src/main.cpp
+iostream
+-
+string
+-
+vector
+-
+memory
+-
+Image.h
+//home/rablair/CPE471/Lab02/L02/src/Image.h
+

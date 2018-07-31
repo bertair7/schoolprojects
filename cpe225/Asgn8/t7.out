@@ -1,0 +1,5 @@
+./a.out /home/phatalsk/www/225/Assignments/Asgn8/test/the.txt notFoundWord
+longest line: the the the the the the the the the the the the the the the the the the the the the the the the
+num chars: 96
+num lines: 235201
+total occurrences of word: 0

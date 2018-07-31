@@ -1,0 +1,11 @@
+#define MAX_CHAR 100
+
+struct Node {
+   char *word;
+   struct Node *next;
+} Character;
+
+FILE *infile;
+
+int main(int argc, char *argv[]);
+void addEntry(char *word);

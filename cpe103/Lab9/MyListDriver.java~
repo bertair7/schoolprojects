@@ -1,0 +1,78 @@
+import java.util.Scanner;
+
+public class MyListDriver {
+
+   public static void main(String[] args) {
+      Scanner in = new Scanner(System.in);
+      MySortedList test = new MySortedList();
+      boolean isDone = false;
+
+      System.out.println("Choose one of the following operations");
+      System.out.println("- add (enter the letter a)");
+      System.out.println("- delete (enter the letter d)");
+      System.out.println("- max (enter the letter x)");
+      System.out.println("- min (enter the letter m)");
+      System.out.println("- check if the list is empty (enter the letter e)");
+      System.out.println("- print the list (enter the letter p)");
+      System.out.println("- quit (enter the letter q)");
+
+      while(!isDone) {
+         String str = in.nextLine();
+         switch(str) {
+            case "a": 
+	       System.out.print("Input an integer: ");
+               int value = in.nextInt();
+       	       test.add(value);
+               break;
+
+            case "d": 
+               System.out.print("Input an integer: ");
+               int value2 = in.nextInt();
+       	          test.delete(value2);
+	          System.out.println(value2 + " is deleted");
+               if(!test.isEmpty())
+                  
+	       break; 
+
+            case "x": 
+               try {
+                  int value3 = test.max();
+                  System.out.println("The max value in the list is: " + value3);
+	       }
+	       catch (NullPointerException e) {
+	          System.out.println("List is empty; max value N/A");
+	       }
+	       break;  
+
+            case "m": 
+               try {
+                  int value4 = test.min();
+                  System.out.println("The min value in the list is: " + value4);
+	       }
+	       catch (NullPointerException e) {
+	          System.out.println("List is empty; min value N/A");
+	       }
+	       break;             
+
+            case "e":
+               boolean empty = test.isEmpty();
+	       if(empty)
+		  System.out.println("Empty");
+	       else
+ 	 	  System.out.println("Not Empty");
+               break;
+
+            case "p":
+               test.print();
+	       break;                     
+
+            case "q": 
+               System.out.println("Quitting");
+               in.close();
+               System.out.println();
+	       isDone = true;
+               break;
+         }
+      }
+   }
+}

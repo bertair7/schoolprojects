@@ -1,0 +1,20 @@
+How to run: python schoolsearch.py
+
+Bash script: lab1btests.sh
+
+New commands -
+   C[lassroom]: <number> [T[eacher]] (R1, R2)
+      ex. R1 C: 103
+      ex. R2 C: 103 T
+
+   In[stuctors]: <number> (R3)
+      ex. In: 2
+
+   E[rollment] (R4)
+      ex. Enrollment
+
+   A[nalytics]: <[number]|[name]> [[G[rade]]|[T[eacher]]|[B[us]] (R5)
+      ex. A: 3 G
+      ex. A: FALKER T
+      ex. A: 53 B
+   

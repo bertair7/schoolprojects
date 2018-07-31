@@ -1,0 +1,55 @@
+Set out of memory (0|!0)? File name: Line: TARGET   = a.out
+Current allocation: 17
+
+Line: CC       = gcc
+Current allocation: 15
+
+Line: CCFLAGS  = -std=c89 -pedantic -Wall -Werror
+Current allocation: 44
+
+Line: LDFLAGS  = -lm
+Current allocation: 15
+
+Line: SOURCES  = $(wildcard *.c)
+Current allocation: 27
+
+Line: INCLUDES = $(wildcard *.h)
+Current allocation: 27
+
+Line: OBJECTS  = $(SOURCES:.c=.o)
+Current allocation: 28
+
+Line: 
+Current allocation: 1
+
+Line: all:$(TARGET)
+Current allocation: 14
+
+Line: 
+Current allocation: 1
+
+Line: $(TARGET):$(OBJECTS)
+Current allocation: 21
+
+Line: 	$(CC) -o $(TARGET) $(LDFLAGS) $(OBJECTS)
+Current allocation: 42
+
+Line: 
+Current allocation: 1
+
+Line: $(OBJECTS):$(SOURCES) $(INCLUDES)
+Current allocation: 34
+
+Line: 	$(CC) -g -c $(CCFLAGS) $(SOURCES)
+Current allocation: 35
+
+Line: 
+Current allocation: 1
+
+Line: clean:
+Current allocation: 7
+
+Line: 	rm -f $(TARGET) $(OBJECTS)
+Current allocation: 28
+
+Peak memory allocation: 80

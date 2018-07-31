@@ -1,0 +1,3 @@
+//home/rablair/lib/glfw-3.1.2/debug/src/CMakeFiles/glfw.dir
+//home/rablair/cpe471/Lab06/2016Lab6release/build/CMakeFiles/lab6.dir
+//home/rablair/lib/glfw-3.1.2/debug/CMakeFiles/uninstall.dir

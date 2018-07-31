@@ -1,0 +1,11 @@
+Name: Ryan Blair
+
+Instructions:
+   make clean
+   make intel-all
+   make run (./test)
+
+Notes: 
+   Did not finish case 20/21. I tested this on the x64 CP unix servers so if 
+   you happen to run it and any other test case fails, you did something
+   wrong.

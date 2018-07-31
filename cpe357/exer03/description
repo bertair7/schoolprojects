@@ -1,0 +1,14 @@
+This test verifies the following:
+
+   1) The output to stdout is correct, specifically the following string:
+
+      "Greetings from Mars!\n"
+
+      Note that the quotes are not part of the string but are there to show
+      you that there is no whitespace at the beginning of the string and,
+      except for the newline character, no whitespace at the end of the
+      string.
+
+   2) The output to stderr is correct, i.e., nothing.
+
+   3) The program exits normally, i.e., returns or exits with 0 from main.

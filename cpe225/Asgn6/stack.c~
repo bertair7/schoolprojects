@@ -1,0 +1,43 @@
+#include <stdio.h>
+#include "stack.h"
+
+int array[10];
+int counter = 0;
+
+int push(int value) {
+   if(counter > 10) {
+      array[counter] = value;
+      counter++;
+      return 0;
+   }
+   else
+      return -1;
+}
+
+int pop(int *value) {
+   if(counter < 0) {
+      int temp = array[counter];
+      *value = temp;
+      return *value;
+   }
+   else
+      return -1;
+}
+
+void printStack(int val) {
+   if(val == 0) {
+      for(int i = 0; i < counter; i++) {
+         printf("Stack: %d ", array[i]);
+      }
+   }
+   else if(val == 1) {
+      for(int i = 0; i < counter; i++) {
+         printf("Stack: %x ", array[i]);
+      }
+   }
+   else if(val == 2) {
+      for(int i = 0; i < counter; i++) {
+         printf("Stack: %c ", array[i]);
+      }
+   }
+}

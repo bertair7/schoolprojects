@@ -1,0 +1,14 @@
+Failed test in unitTestB.c at line 22:
+   Found substitution actual, value true, expected false
+Failed test in unitTestB.c at line 22:
+   Found substitution actual, value false, expected true
+Failed test in unitTestA.c at line 42:
+   Found substitution 'actual', value 'E', expected 'D'
+Failed test in unitTestA.c at line 37:
+   Found substitution actual, value 321, expected 341
+Failed test in unitTestA.c at line 32:
+   Found substitution actual, value 32413, expected 13251235234652345
+Failed test in unitTestB.c at line 42:
+   Found substitution actual, value 44, expected 33 +/-1
+Failed test in unitTestB.c at line 47:
+   Found substitution actual, value bimbo, expected fred

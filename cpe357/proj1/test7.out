@@ -1,0 +1,16 @@
+Enter the seed for random number generation: Enter the maximum letter for the game (A-Z): Enter the number of positions for the game (1-8): Enter the number of guesses allowed for the game: Initialized Game Board: DGRPNP
+
+Enter guess 1: Nope, 0 exact guesses and 3 inexact guesses
+
+Enter guess 2: Nope, 0 exact guesses and 3 inexact guesses
+
+Enter guess 3: Nope, 0 exact guesses and 3 inexact guesses
+
+Enter guess 4: Nope, 0 exact guesses and 2 inexact guesses
+
+Enter guess 5: Nope, 1 exact guesses and 0 inexact guesses
+
+Enter guess 6: Nope, 0 exact guesses and 6 inexact guesses
+
+Enter guess 7: 
+Wow, you won in 7 guesses - well done!

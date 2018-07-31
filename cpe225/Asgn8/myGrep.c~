@@ -1,0 +1,29 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include "myGrep.h"
+
+int main(int argc, char *argv[]) {
+   if(argc != 3) {
+      printf("myGrep: improper number of arguments");
+      printf("\nUsage: %s <filename> <word>\n", argv[0]);
+   }
+   else {
+      infile = fopen(argv[1], "r");
+      if(infile == 0)
+	 printf("Unable to open file: %s\n", argv[1]);
+      else {
+	 struct Node *root;
+	 
+         input = (Character*)malloc(sizof(struct Character) * MAX_CHAR);
+	 
+      }
+   }
+}
+
+void addEntry(char *nextWord) {
+   struct Node *tempNode, *point;
+   tempNode = (struct Character*)malloc(sizof(struct Character));
+   tempNode->word = nextWord;
+   point = 
+}
+#endif

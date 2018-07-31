@@ -1,0 +1,46 @@
+; Ryan Blair
+; Assignment 7
+; Date: 11/17/15
+; R1 - current char address
+; R2 - character
+; R3 - word length decremented for current letter
+; R4 - search char
+
+	.ORIG x3300
+COUNT	ADD R6, R6, #-1	; return value slot
+	ADD R6, R6, #-1	; return address
+	STR R7, R6, #0
+	
+	ADD R6, R6, #-1 ; dynamic link
+	STR R5, R6, #0 
+
+	ADD R5, R6, #-1 ; new frame pointer
+	ADD R6, R6, #-1 ; memory for local variables
+
+	; initialize result, search character
+	AND R2, R2, #0
+        LDR R4, R5, #5	; put search character into R4
+ 	LDR R1, R5, #4	; put current character address into R1
+
+	LDR R2, R1, #0	; load character into R2
+	NOT R2, R2
+	ADD R2, R2, #1	; make it negative for comparison
+	ADD R2, R4, R2	; comparison
+	BRz FOUND
+
+	ADD R3, R3, #-1	; decrement for every character searched
+	BRnp COUNT
+	
+END	LDR R0, R5, #0 ; load variable
+	STR R0, R5, #3 ; write in return value slot
+	
+	ADD R6, R5, #1 ; pop local variables
+	LDR R5, R6, #0 ; pop dynamic link
+	ADD R6, R6, #1
+  
+	LDR R7, R6, #0 ; pop return address
+	ADD R6, R6, #1
+
+	RET
+
+FOUND	ADD R5, 

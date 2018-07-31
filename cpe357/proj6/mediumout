@@ -1,0 +1,7 @@
+So, I guess the last test I made was a little too big. I wonder if I can tone the test down a bit in order to successfully test the output.
+This may a difficult thing to do, as these tests must be just long enough for a recycle to occur, and yet not too long as too make debugging the code impossible.
+This may be a comfortable medium, as I do not plan on making it too long, but I think it just might be long enough.
+Hopefully.
+We will see.
+I'm still not really sure, though. I need to make it long enough to trigger a recycle.
+What if I just say "recycle" to the computer. Do you think that would make it recycle?

@@ -1,0 +1,63 @@
+/* Ryan Blair
+ * Assignment 6
+ */
+#include <stdio.h>
+#include "stack.h"
+
+char option;
+int pushed;
+int popped;
+
+int main() {
+   printf("Welcome to the stack program.");
+   while(option != 'x') {
+      printf("\nEnter option: ");
+      scanf("%c", &option);
+      switch(option) {
+	 case 'u':  /*push*/
+	    printf("\nWhat number? ");
+            scanf("%d", &pushed);
+	    if(push(pushed) == 0)
+	       printStack(mode);
+	    else   /*pushed beyond size of array, overflow occurs*/
+	       printf("\nOverflow!!!");
+	       printStack(mode);
+	    break;
+
+         case 'o': /*pop*/
+	    popped = pop(*counter);
+            if(popped != -1) {
+ 	       printf("\nPopped %d", popped);
+	       printStack(mode);
+	    }
+	    else { /*not enough elements, underflow occurs*/
+	       printf("\nUnderflow!!!");
+	       printStack(mode);
+	    }
+            break;
+         
+         case 'h': /*print in hex*/
+            mode = 1;
+	    printStack(mode);
+	    break;
+ 
+         case 'c': /*print in char*/
+	    mode = 2;
+	    printStack(mode);
+	    break;
+
+         case 'd': /*print in decimal*/
+            mode = 0;
+	    printStack(mode);
+            break;
+
+         case 'x': /*exit*/
+            printf("\nGoodbye!");
+            break;
+
+         default:
+            printf("\n");
+	    break;
+      }
+   }
+}

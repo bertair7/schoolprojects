@@ -1,0 +1,1 @@
+./ext2reader -l testimage.ext2 /gzip-1.6/lib/Makefile.in

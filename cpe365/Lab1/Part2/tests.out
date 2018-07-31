@@ -1,0 +1,409 @@
+Test1==========================================
+S[tudent]: <lastname> [B[us]]
+
+T[eacher]: <lastname>
+
+B[us]: <number>
+
+G[rade]: <number> [[H[igh]]|[L[ow]]]
+
+A[verage]: <number>
+
+C[lassroom]: <number> [T[eacher]]
+
+In[structors]: <number>
+
+E[nrollment]
+
+A[nalytics]: <[number]|[name]> [[G[rade]]|[T[eacher]]|[B[us]]
+
+I[nfo]
+
+Q[uit]
+
+HAVIR BOBBIE 2 108 HAMER GAVIN
+Test2==========================================
+S[tudent]: <lastname> [B[us]]
+
+T[eacher]: <lastname>
+
+B[us]: <number>
+
+G[rade]: <number> [[H[igh]]|[L[ow]]]
+
+A[verage]: <number>
+
+C[lassroom]: <number> [T[eacher]]
+
+In[structors]: <number>
+
+E[nrollment]
+
+A[nalytics]: <[number]|[name]> [[G[rade]]|[T[eacher]]|[B[us]]
+
+I[nfo]
+
+Q[uit]
+
+Test3==========================================
+S[tudent]: <lastname> [B[us]]
+
+T[eacher]: <lastname>
+
+B[us]: <number>
+
+G[rade]: <number> [[H[igh]]|[L[ow]]]
+
+A[verage]: <number>
+
+C[lassroom]: <number> [T[eacher]]
+
+In[structors]: <number>
+
+E[nrollment]
+
+A[nalytics]: <[number]|[name]> [[G[rade]]|[T[eacher]]|[B[us]]
+
+I[nfo]
+
+Q[uit]
+
+HAVIR BOBBIE 0
+SAELEE DANILO
+GARTH JOHN
+Test4==========================================
+S[tudent]: <lastname> [B[us]]
+
+T[eacher]: <lastname>
+
+B[us]: <number>
+
+G[rade]: <number> [[H[igh]]|[L[ow]]]
+
+A[verage]: <number>
+
+C[lassroom]: <number> [T[eacher]]
+
+In[structors]: <number>
+
+E[nrollment]
+
+A[nalytics]: <[number]|[name]> [[G[rade]]|[T[eacher]]|[B[us]]
+
+I[nfo]
+
+Q[uit]
+
+S[tudent]: <lastname> [B[us]]
+
+T[eacher]: <lastname>
+
+B[us]: <number>
+
+G[rade]: <number> [[H[igh]]|[L[ow]]]
+
+A[verage]: <number>
+
+C[lassroom]: <number> [T[eacher]]
+
+In[structors]: <number>
+
+E[nrollment]
+
+A[nalytics]: <[number]|[name]> [[G[rade]]|[T[eacher]]|[B[us]]
+
+I[nfo]
+
+Q[uit]
+
+PHUONG SCHOENECKER 6 109
+MATHILDA FINCHMAN 6 111
+HYE BRODERSEN 3 110
+BOBBIE HAVIR 2 108
+ELDON MASSART 4 105
+JOHN GARTH 1 103
+RANDOLPH CREMEANS 6 109
+CARRIE KREESE 6 109
+Test5==========================================
+S[tudent]: <lastname> [B[us]]
+
+T[eacher]: <lastname>
+
+B[us]: <number>
+
+G[rade]: <number> [[H[igh]]|[L[ow]]]
+
+A[verage]: <number>
+
+C[lassroom]: <number> [T[eacher]]
+
+In[structors]: <number>
+
+E[nrollment]
+
+A[nalytics]: <[number]|[name]> [[G[rade]]|[T[eacher]]|[B[us]]
+
+I[nfo]
+
+Q[uit]
+
+SHARRI SWEDLUND 3.24 ROCIO FAFARD 55
+MANIE CIGANEK 2.79 ROCIO FAFARD 53
+Test6==========================================
+S[tudent]: <lastname> [B[us]]
+
+T[eacher]: <lastname>
+
+B[us]: <number>
+
+G[rade]: <number> [[H[igh]]|[L[ow]]]
+
+A[verage]: <number>
+
+C[lassroom]: <number> [T[eacher]]
+
+In[structors]: <number>
+
+E[nrollment]
+
+A[nalytics]: <[number]|[name]> [[G[rade]]|[T[eacher]]|[B[us]]
+
+I[nfo]
+
+Q[uit]
+
+Grade: 4 Average GPA: 2.951
+0: 0
+1: 2
+2: 13
+3: 9
+4: 15
+5: 0
+6: 21
+S[tudent]: <lastname> [B[us]]
+
+T[eacher]: <lastname>
+
+B[us]: <number>
+
+G[rade]: <number> [[H[igh]]|[L[ow]]]
+
+A[verage]: <number>
+
+C[lassroom]: <number> [T[eacher]]
+
+In[structors]: <number>
+
+E[nrollment]
+
+A[nalytics]: <[number]|[name]> [[G[rade]]|[T[eacher]]|[B[us]]
+
+I[nfo]
+
+Q[uit]
+
+Test7==========================================
+S[tudent]: <lastname> [B[us]]
+
+T[eacher]: <lastname>
+
+B[us]: <number>
+
+G[rade]: <number> [[H[igh]]|[L[ow]]]
+
+A[verage]: <number>
+
+C[lassroom]: <number> [T[eacher]]
+
+In[structors]: <number>
+
+E[nrollment]
+
+A[nalytics]: <[number]|[name]> [[G[rade]]|[T[eacher]]|[B[us]]
+
+I[nfo]
+
+Q[uit]
+
+S[tudent]: <lastname> [B[us]]
+
+T[eacher]: <lastname>
+
+B[us]: <number>
+
+G[rade]: <number> [[H[igh]]|[L[ow]]]
+
+A[verage]: <number>
+
+C[lassroom]: <number> [T[eacher]]
+
+In[structors]: <number>
+
+E[nrollment]
+
+A[nalytics]: <[number]|[name]> [[G[rade]]|[T[eacher]]|[B[us]]
+
+I[nfo]
+
+Q[uit]
+
+S[tudent]: <lastname> [B[us]]
+
+T[eacher]: <lastname>
+
+B[us]: <number>
+
+G[rade]: <number> [[H[igh]]|[L[ow]]]
+
+A[verage]: <number>
+
+C[lassroom]: <number> [T[eacher]]
+
+In[structors]: <number>
+
+E[nrollment]
+
+A[nalytics]: <[number]|[name]> [[G[rade]]|[T[eacher]]|[B[us]]
+
+I[nfo]
+
+Q[uit]
+
+S[tudent]: <lastname> [B[us]]
+
+T[eacher]: <lastname>
+
+B[us]: <number>
+
+G[rade]: <number> [[H[igh]]|[L[ow]]]
+
+A[verage]: <number>
+
+C[lassroom]: <number> [T[eacher]]
+
+In[structors]: <number>
+
+E[nrollment]
+
+A[nalytics]: <[number]|[name]> [[G[rade]]|[T[eacher]]|[B[us]]
+
+I[nfo]
+
+Q[uit]
+
+~~~Part 2~~~
+Test1==========================================
+S[tudent]: <lastname> [B[us]]
+
+T[eacher]: <lastname>
+
+B[us]: <number>
+
+G[rade]: <number> [[H[igh]]|[L[ow]]]
+
+A[verage]: <number>
+
+C[lassroom]: <number> [T[eacher]]
+
+In[structors]: <number>
+
+E[nrollment]
+
+A[nalytics]: <[number]|[name]> [[G[rade]]|[T[eacher]]|[B[us]]
+
+I[nfo]
+
+Q[uit]
+
+SAELEE DANILO
+GARTH JOHN
+FALKER ADOLPH
+Test2==========================================
+S[tudent]: <lastname> [B[us]]
+
+T[eacher]: <lastname>
+
+B[us]: <number>
+
+G[rade]: <number> [[H[igh]]|[L[ow]]]
+
+A[verage]: <number>
+
+C[lassroom]: <number> [T[eacher]]
+
+In[structors]: <number>
+
+E[nrollment]
+
+A[nalytics]: <[number]|[name]> [[G[rade]]|[T[eacher]]|[B[us]]
+
+I[nfo]
+
+Q[uit]
+
+FAFARD ROCIO
+ALPERT JONATHAN
+Test3==========================================
+S[tudent]: <lastname> [B[us]]
+
+T[eacher]: <lastname>
+
+B[us]: <number>
+
+G[rade]: <number> [[H[igh]]|[L[ow]]]
+
+A[verage]: <number>
+
+C[lassroom]: <number> [T[eacher]]
+
+In[structors]: <number>
+
+E[nrollment]
+
+A[nalytics]: <[number]|[name]> [[G[rade]]|[T[eacher]]|[B[us]]
+
+I[nfo]
+
+Q[uit]
+
+101: 1
+102: 5
+103: 2
+104: 2
+105: 6
+106: 2
+107: 7
+108: 11
+109: 5
+110: 2
+111: 9
+112: 8
+Test4==========================================
+S[tudent]: <lastname> [B[us]]
+
+T[eacher]: <lastname>
+
+B[us]: <number>
+
+G[rade]: <number> [[H[igh]]|[L[ow]]]
+
+A[verage]: <number>
+
+C[lassroom]: <number> [T[eacher]]
+
+In[structors]: <number>
+
+E[nrollment]
+
+A[nalytics]: <[number]|[name]> [[G[rade]]|[T[eacher]]|[B[us]]
+
+I[nfo]
+
+Q[uit]
+
+Grade: 3
+Average GPA: 3.05 High: 3.24 Low: 2.79
+Teacher: FALKER
+Average GPA: 3.00 High: 3.14 Low: 2.85
+Bus Route: 53
+Average GPA: 3.06 High: 3.22 Low: 2.79

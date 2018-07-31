@@ -1,0 +1,1 @@
+/bin/c++    -std=c++0x -Wall -pedantic    CMakeFiles/p2B.dir/src/GLSL.cpp.o CMakeFiles/p2B.dir/src/main.cpp.o CMakeFiles/p2B.dir/src/Program.cpp.o CMakeFiles/p2B.dir/src/Shape.cpp.o  -o p2B -rdynamic //home/rablair/lib/glfw-3.1.2/debug/src/libglfw3.a -lrt -lm -lX11 -lpthread -lXrandr -lXinerama -lXi -lXxf86vm -lXcursor -lGL -ldl /home/rablair/lib/glew-2.0.0//lib/libGLEW.a -lGL 
